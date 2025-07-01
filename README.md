@@ -35,7 +35,8 @@ estou organizando meus projetos ainda.😊
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jessicajeje&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessicajeje&layout=compact&themel=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessicajeje&layout=compact&theme=dracula&v=2"/>
+
 </div>
 
 ---
