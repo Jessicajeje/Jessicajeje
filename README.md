@@ -27,9 +27,7 @@
 ---
 
 ### 📌 Projetos em destaque
-
-- [🔗 Projeto 1 – Landing Page Responsiva](#)
-- [🔗 Projeto 2 – Calculadora em JavaScript](#)
+estou organizando meus projetos ainda.😊
 
 ---
 
