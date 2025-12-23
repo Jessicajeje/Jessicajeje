@@ -3,7 +3,7 @@
 <h1 align="center">👋 Olá! Eu sou Jéssica Steffany.</h1>
 
 <p align="center">
-💻 Desenvolvedora em formação • Apaixonada por Front-end • Sempre aprendendo
+💻 Desenvolvedora em formação • Apaixonada por Jogos, desenvolvedora front-end • Sempre aprendendo
 </p>
 
 ---
