@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" />
+  <img src="https://img.shields.io" />
+
 
 </div>
 
@@ -22,16 +24,16 @@
 
 ### 🌱 Atualmente estudando
 
-- 🧠 Aprofundando meus conhecimentos em JavaScript
+- 🧠 Aprofundando meus conhecimentos em Web
 - 🎨 Projetos responsivos com HTML + CSS
-- 🔧 Lógica de programação e boas práticas
+- 👾 introdução ao desenvolvimento de jogos
+- 🤓 Linguagem java para operar em backend
 
 ---
 
 ### 📌 Projetos em destaque
 <a href="https://github.com/Jessicajeje/Front-end-melhoria-de-interfaces-gov.br">Front-end-melhoria-de-interfaces-gov.br😊<a/><br><br>
 <a href="https://github.com/Jessicajeje/site-DrawNet">site-DrawNet😊<a/><br><br>
-<a href="https://github.com/Jessicajeje/projetoWeb2">projetoWeb2😊<a/><br><br>
 
 
 ### 📊 GitHub Stats
