@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/Javastyle=badge&logo=Java&logoColor=black">
 
 
 </div>
@@ -34,6 +33,7 @@
 ### 📌 Projetos em destaque
 <a href="https://github.com/Jessicajeje/Front-end-melhoria-de-interfaces-gov.br">Front-end-melhoria-de-interfaces-gov.br😊<a/><br><br>
 <a href="https://github.com/Jessicajeje/site-DrawNet">site-DrawNet😊<a/><br><br>
+<a href="https://github.com/Jessicajeje/jogo-em-java">meu primeiro jogo em java😊<a/><br><br>
 
 
 ### 📊 GitHub Stats
