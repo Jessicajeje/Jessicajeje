@@ -1,57 +1,18 @@
-## 😎 Jessicajeje
-
-<h1 align="center">👋 Olá! Eu sou Jéssica Steffany.</h1>
-
-<p align="center">
-💻 Desenvolvedora em formação • Apaixonada por Jogos, desenvolvedora full stack • Sempre aprendendo
-</p>
-
----
-
-### 🚀 Tecnologias que uso
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Handlebars.js-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" />
+# 💫 About Me:
+💻 Desenvolvedora em formação • Apaixonada por Jogos, desenvolvedora full stack • Sempre aprendendo<br>🌱 Atualmente estudando<br><br>- 🧠 Aprofundando meus conhecimentos em Web<br>- 🎨 Projetos responsivos com ReactJS<br>- 👾 introdução ao desenvolvimento de jogos<br>- 🤓 Operando em backend com java<br><br>Pretendo operar em C# para gameDev<br><br> 📌 Projetos em destaque<br>https//github.com/Jessicajeje/Front-end-melhoria-de-interfaces-gov.br">Front-end-melhoria-de-interfaces-gov.br😊<br>https://github.com/Jessicajeje/jogo-em-java">meu primeiro jogo em java😊<br>
 
 
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jessica-steffany) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jessicasteffany598@gmail.com) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Jessicajeje&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Jessicajeje&theme=material-palenight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jessicajeje&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Jessicajeje&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🌱 Atualmente estudando
-
-- 🧠 Aprofundando meus conhecimentos em Web
-- 🎨 Projetos responsivos com HTML + CSS
-- 👾 introdução ao desenvolvimento de jogos
-- 🤓 Linguagem java para operar em backend
-
----
-
-### 📌 Projetos em destaque
-<a href="https://github.com/Jessicajeje/Front-end-melhoria-de-interfaces-gov.br">Front-end-melhoria-de-interfaces-gov.br😊<a/><br><br>
-<a href="https://github.com/Jessicajeje/site-DrawNet">site-DrawNet😊<a/><br><br>
-<a href="https://github.com/Jessicajeje/jogo-em-java">meu primeiro jogo em java😊<a/><br><br>
-
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jessicajeje&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessicajeje&layout=compact&theme=dracula&v=2"/>
-
-</div>
-
----
-
-### 📬 Contato
-
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jessicasteffany598@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jéssica-steffany-989083367/)
-
----
-
-✨ Obrigada por visitar meu perfil!
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
