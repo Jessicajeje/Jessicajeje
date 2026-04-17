@@ -4,7 +4,7 @@
 📌 Projetos em destaque<br>
 * [🚀 Front-end Melhoria de Interfaces GOV.BR](https://github.com/Jessicajeje/Front-end-melhoria-de-interfaces-gov.br) 😊
 * [🎮 Meu Primeiro Jogo em Java](https://github.com/Jessicajeje/jogo-em-java) 😊
-** [🤝 Projeto Colaborativo reservar salas](https://github.com/Jessicajeje/site-reserva-de-sala) - Desenvolvendo em parceria com [Nicolas-Silva01 e Edilson sakyo].
+* [🤝 Projeto Colaborativo reservar salas](https://github.com/Jessicajeje/site-reserva-de-sala) - Desenvolvendo em parceria com [Nicolas-Silva01 e Edilson sakyo].
 
 
 
